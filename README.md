@@ -1,2 +1,2 @@
 # Russian-Roulette
-Try your luck
+I wish you best of luck
